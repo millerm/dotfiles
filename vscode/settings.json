@@ -16,9 +16,9 @@
       "commands": ["editor.action.indentLines"]
     },
     {
-      "before": ["shift", "<S-Tab>"],
+      "before": ["<S-Tab>"],
       "commands": ["editor.action.outdentLines"]
-    },
+    }
   ],
   "workbench.editorAssociations": [
     {
