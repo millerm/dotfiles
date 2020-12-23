@@ -1,4 +1,7 @@
 {
+  "editor.formatOnSave": true,
+  "python.pythonPath": "venv/bin/python3",
+  "python.formatting.provider": "black",
   "telemetry.enableTelemetry": false,
   "telemetry.enableCrashReporter": false,
   "vim.autoindent": true,
